@@ -1,0 +1,26 @@
+/* Add your styles here */
+h1 {
+  color: purple;
+  text-align: center;
+}
+p { color:green; text-align: center;}
+
+.blue {
+  color:blue;
+  text-align: right;
+}
+
+#black {
+  color:black;
+  text-align: left;
+}
+body {
+  background-color: lightblue;
+}
+div {
+  background-color: lightpink;
+  width: 300px;
+  border: 12px solid blue;
+  padding: 50px;
+  margin: 20px;
+}

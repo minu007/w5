@@ -1,0 +1,47 @@
+h2 {
+  color: purple;
+  text-align: center;
+}
+p { color:green; text-align: center;}
+
+.blue {
+  color:blue;
+  text-align: right;
+}
+
+#black {
+  color:black;
+  text-align: left;
+}
+body {
+  background-color: lightpink;
+    }
+  /* unvisited link */
+  a:link {
+    color: red;
+  }
+
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  div {
+  background-color: purple;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+div:hover {
+  background-color: green;
+}
